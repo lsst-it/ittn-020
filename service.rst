@@ -6,9 +6,9 @@ Level 1
 
 Minimal wired connectivity at the summit, reachable from the base. 
 
-:Resources Needed: 1 FTE at the Summit, 1 FTE at the Base
-:Time Needed: 3 hours
-
+:Resources at the Summit: 1 FTE 
+:Resources at the Base: 2 FTE
+:Time: 3 hours
 
 ========================= ======== ==============
 Device                    Location IPAM Link
@@ -20,3 +20,4 @@ DWDM                      Rack ?   link
 Core Cluster              Rack ?   link
 DNS                       Rack ?   link
 DHCP                      Rack ?   link
+========================= ======== ==============
