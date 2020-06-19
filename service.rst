@@ -6,9 +6,10 @@ Level 1
 
 Minimal wired connectivity at the summit, reachable from the base. 
 
-:Resources at the Summit: 1 FTE 
-:Resources at the Base: 2 FTE
+:Summit: 1 FTE 
+:Base: 2 FTE
 :Time: 3 hours
+
 
 ========================= ======== ==============
 Device                    Location IPAM Link
