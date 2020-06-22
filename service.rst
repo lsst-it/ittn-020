@@ -22,7 +22,7 @@ Level 1
 
 Minimal connection at the summit with link to the base. Wired and Wireless are available.
 
-Requires verification of the AURA DWDM at Casete Pachion with NOIRLab 
+Requires verification of the AURA DWDM at Caseta Pachon with NOIRLab 
 
 :Summit: 2 FTE 
 :Base: 1 FTE
