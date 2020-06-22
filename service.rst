@@ -58,7 +58,7 @@ Device                    Location   IPAM Link
 ========================= ========== ==============
 Cisco BE6K                Rack       link
 Video Conference          Conf. Room -
-========================= ========== =============
+========================= ========== ==============
 
 Level 3
 -------
@@ -73,6 +73,7 @@ Level 2 + Monitoring
 Device                    Location IPAM Link
 ========================= ======== ==============
 APIC 1                    Rack ?   link
+Spine 1 then Spine 2      Rack ?   link
 Leaf 01 and 03            Rack ?   link
 APIC 2 and 3              Rack ?   link
 Border Leafs              Rack ?   link
