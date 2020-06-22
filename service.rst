@@ -80,3 +80,80 @@ Remaining Leafs           Rack ?   link
 HVAC Server               Rack ?   link
 ========================= ======== ==============
 
+
+Level 4
+-------
+
+Level 3 + Main Computing
+
+:Summit: 1 FTE
+:Base: 1 FTE
+:Time: 4 hours
+
+========================= ========== ==============
+Device                    Location   IPAM Link
+========================= ========== ==============
+Amor cluster              Rack       link
+Andes cluster             Rack       link
+Azar cluster              Rack       link
+========================= ========== =============
+
+Level 5
+-------
+
+Level 4 + Building
+
+Requires reset of ip phones. 
+
+:Summit: 2 FTE
+:Base: 1 FTE
+:Time: 6+ hours
+
+================================= ========== ==============
+Device                            Location   IPAM Link
+================================= ========== ==============
+1st Floor (incl. GeoVictoria)     -          -
+3rd Floor (incl. M2, Hex-Rot,etc) -          -
+5th Floor                         -          -
+Upper Levels Wifi                 -          -
+================================= ========== =============
+
+
+Level 6
+-------
+
+Level 5 + Auxtel and calibration hill
+
+Requires reset of ip phones in Auxtel.
+
+:Summit: 2 FTE
+:Base: 1 FTE
+:Time: 4 hours
+
+================================= ========== ==============
+Device                            Location   IPAM Link
+================================= ========== ==============
+Auxtel Rack                       -          -
+Weather, Dimm and All-Sky Cab.    -          -
+Main Generator Cabinet            -          -
+================================= ========== =============
+
+
+Level 7
+-------
+
+Level 6 + all the rest
+
+:Summit: 2 FTE
+:Base: 0 FTE
+:Time: 4 hours
+
+================================= ========== ==============
+Device                            Location   IPAM Link
+================================= ========== ==============
+Summit Villa                      -          -
+Contractors Network               -          -
+Casino                            -          -
+Any other                         -          -
+================================= ========== =============
+
