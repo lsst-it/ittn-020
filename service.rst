@@ -96,7 +96,7 @@ Device                    Location   IPAM Link
 Amor cluster              Rack       link
 Andes cluster             Rack       link
 Azar cluster              Rack       link
-========================= ========== =============
+========================= ========== ==============
 
 Level 5
 -------
@@ -116,7 +116,7 @@ Device                            Location   IPAM Link
 3rd Floor (incl. M2, Hex-Rot,etc) -          -
 5th Floor                         -          -
 Upper Levels Wifi                 -          -
-================================= ========== =============
+================================= ========== ==============
 
 
 Level 6
@@ -136,7 +136,7 @@ Device                            Location   IPAM Link
 Auxtel Rack                       -          -
 Weather, Dimm and All-Sky Cab.    -          -
 Main Generator Cabinet            -          -
-================================= ========== =============
+================================= ========== ==============
 
 
 Level 7
@@ -155,5 +155,5 @@ Summit Villa                      -          -
 Contractors Network               -          -
 Casino                            -          -
 Any other                         -          -
-================================= ========== =============
+================================= ========== ==============
 
