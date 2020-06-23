@@ -87,7 +87,9 @@ Level 4
 
 Level 3 + Main Computing
 
-:Summit: 1 FTE
+Requires 1 extra FTE from Software group to verify the software.
+
+:Summit: 1 FTE 
 :Base: 1 FTE
 :Time: 4 hours
 
