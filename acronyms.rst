@@ -13,5 +13,5 @@ DHCP    Dynamic Host Configuration Protocol
 FTE     Full Time Employee
 HVAC    Heating, ventilation, and air conditioning 
 IP      Internet Protocol
-IPAM    IP Address Managemen
+IPAM    IP Address Management
 ======= ===============================================
