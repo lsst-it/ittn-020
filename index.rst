@@ -19,6 +19,8 @@ Each service level details the resource requirements and the expected time requi
 
 .. include:: service.rst
 
+.. include:: acronyms.rst
+
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
