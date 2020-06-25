@@ -146,7 +146,7 @@ Auxtel Rack                       -          -
 Level 7
 -------
 
-Level 1 + Telephony and Video Conference.
+Level 6 + Telephony and Video Conference.
 
 Requires reset of all IP phones.
 
@@ -165,7 +165,7 @@ Video Conference          Conf. Room -
 Level 8
 -------
 
-Level 6 + all the rest
+Level 7 + all the rest
 
 :Summit: 2 FTE
 :Base: 0 FTE
