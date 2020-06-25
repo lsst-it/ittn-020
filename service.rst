@@ -85,9 +85,9 @@ Requires 1 extra FTE from Software group to verify the software.
 ========================= ======== =============================================
 Device                    Location   IPAM Link
 ========================= ======== =============================================
-Amor cluster              Rack       link
-Andes cluster             Rack       link
-Azar cluster              Rack       link
+Amor cluster              Rack B1  https://ls.st/4od
+Andes cluster             Rack A1  https://ls.st/w60
+Azar cluster              Rack A6  https://ls.st/dah
 ========================= ======== =============================================
 
 
